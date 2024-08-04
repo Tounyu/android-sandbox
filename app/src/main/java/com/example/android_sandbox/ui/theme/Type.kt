@@ -1,4 +1,4 @@
-package com.example.android_sandbox.ui.theme
+package dev.tounyu.android_sandbox.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

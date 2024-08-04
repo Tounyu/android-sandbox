@@ -1,4 +1,4 @@
-package dev.tounyu.android_sandbox
+package dev.tounyu.core.ui
 
 import org.junit.Test
 

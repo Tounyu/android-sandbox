@@ -1,4 +1,4 @@
-package com.example.android_sandbox.ui.theme
+package dev.tounyu.android_sandbox.ui.theme
 
 import android.app.Activity
 import android.os.Build
