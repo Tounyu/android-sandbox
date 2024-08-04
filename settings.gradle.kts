@@ -23,3 +23,4 @@ rootProject.name = "android-sandbox"
 include(":app")
 include(":core:ui")
 include(":core:mvi")
+include(":feature:top")
